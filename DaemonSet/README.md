@@ -14,7 +14,7 @@
 - Weave-net
 - Node monitoring
 
-### Example of Daemonset:
+### Example of Daemonset: #
 
 ![image](https://github.com/user-attachments/assets/71725083-89a7-4e93-a1ed-df4c8adc94c3)
 
